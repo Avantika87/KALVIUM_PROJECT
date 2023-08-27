@@ -8,7 +8,7 @@ To begin development, it's essential to have Node.js installed in your environme
 Simply visit the official Node.js website and acquire the installer from there. Additionally, ensure that git is accessible in your PATH, as npm might require it.
 ## Install
 ```
-$ git clone https://github.com/Avantika87/Plotline_Project.git 
+$ git clone https://github.com/Avantika87/KALVIUM_PROJECT.git 
 ```
 ```
 $ cd KALVIUM_PROJECT
