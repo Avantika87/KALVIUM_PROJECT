@@ -1,0 +1,40 @@
+body {
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background-color: rgb(235, 224, 211);
+}
+.heading{
+  border: 5px solid rgb(71, 15, 15);
+  padding: 10px;
+  text-align: center;
+  border-radius: 10px;
+
+  padding: 5px 10px;
+  margin-block-start: 0px;
+  background-color:rgb(147, 143, 143);
+  color:black;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  
+
+}
+h1 {
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+
+}
+
+.App {
+  text-align: center;
+  background-image: url(./back-grd.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  min-height: 100vh;
+  padding: 40px;
+  box-sizing: border-box;
+
+}
